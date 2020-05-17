@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>CPL_NDF-7898</filename>
+  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\test\CPL_NDF-7898.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>737-MAX</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>104</xmin>
+      <ymin>198</ymin>
+      <xmax>659</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
-  <folder>images</folder>
-  <filename>D4zm-0dX4AIDStv</filename>
-  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\D4zm-0dX4AIDStv.jpg</path>
+  <folder>test</folder>
+  <filename>Continental-Airlines-Boeing-757-2005</filename>
+  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\test\Continental-Airlines-Boeing-757-2005.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -12,15 +12,15 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>plane</name>
+    <name>757</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>5</xmin>
-      <ymin>106</ymin>
-      <xmax>788</xmax>
-      <ymax>438</ymax>
+      <xmin>43</xmin>
+      <ymin>198</ymin>
+      <xmax>731</xmax>
+      <ymax>416</ymax>
     </bndbox>
   </object>
 </annotation>

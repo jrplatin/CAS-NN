@@ -1,7 +1,7 @@
 <annotation>
-  <folder>images</folder>
-  <filename>Boeing-737-9-MAX-United-Airlines</filename>
-  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\Boeing-737-9-MAX-United-Airlines.jpg</path>
+  <folder>test</folder>
+  <filename>boeing-max-8_resize_md</filename>
+  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\test\boeing-max-8_resize_md.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -12,15 +12,15 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>plane</name>
+    <name>737-MAX</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>25</xmin>
-      <ymin>124</ymin>
-      <xmax>780</xmax>
-      <ymax>460</ymax>
+      <xmin>1</xmin>
+      <ymin>256</ymin>
+      <xmax>731</xmax>
+      <ymax>562</ymax>
     </bndbox>
   </object>
 </annotation>
