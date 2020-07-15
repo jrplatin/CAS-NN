@@ -22,6 +22,9 @@ from absl import flags
 
 import tensorflow as tf
 
+import warnings
+
+
 from object_detection import model_hparams
 from object_detection import model_lib
 
@@ -57,6 +60,8 @@ FLAGS = flags.FLAGS
 
 
 def main(unused_argv):
+  warnings.filterwarnings("ignore", category=DeprecationWarning)
+
   flags.mark_flag_as_required('model_dir')
   flags.mark_flag_as_required('pipeline_config_path')
   config = tf.estimator.RunConfig(model_dir=FLAGS.model_dir)

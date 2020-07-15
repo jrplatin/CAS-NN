@@ -1,4 +1,8 @@
 filename,width,height,class,xmin,ymin,xmax,ymax
-boeing-max-8_resize_md,800,600,737-MAX,1,256,731,562
+b757-200,800,600,757,11,80,774,483
+bltdac9da760fed9463,800,600,757,33,77,765,364
+boeing-lion737-max10_1200xx1128-635-0-86,800,600,737-MAX,75,190,723,409
+boeing-max-8_resize_md,800,600,737-MAX,17,283,741,561
 Continental-Airlines-Boeing-757-2005,800,600,757,43,198,731,416
 CPL_NDF-7898,800,600,737-MAX,104,198,659,362
+ryanair-737max-rd-830x402,800,600,737-MAX,9,130,777,444

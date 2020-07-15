@@ -1,7 +1,7 @@
 <annotation>
   <folder>train</folder>
-  <filename>D4zm-0dX4AIDStv</filename>
-  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\train\D4zm-0dX4AIDStv.jpg</path>
+  <filename>190327150216-crisis-reputacion-aviones-boeing-737-max-8-pkg-richard-quest-00012704-exlarge-169</filename>
+  <path>C:\Users\toshiba\Desktop\android studio\CAS-NN\images\train\190327150216-crisis-reputacion-aviones-boeing-737-max-8-pkg-richard-quest-00012704-exlarge-169.jpg</path>
   <source>
     <database>Unknown</database>
   </source>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>12</xmin>
-      <ymin>108</ymin>
-      <xmax>792</xmax>
-      <ymax>435</ymax>
+      <xmin>229</xmin>
+      <ymin>101</ymin>
+      <xmax>743</xmax>
+      <ymax>417</ymax>
     </bndbox>
   </object>
 </annotation>

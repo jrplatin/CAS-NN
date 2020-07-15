@@ -3,6 +3,8 @@ import os
 import argparse
 def rescale_images(directory, size):
     for img in os.listdir(directory):
+        if os.path.splitext(img)[1]  == ".xml":
+            continue
         im = Image.open(directory+img)
         im_resized = im.resize(size, Image.ANTIALIAS)
         im_resized.save(directory+img)
