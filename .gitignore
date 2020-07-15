@@ -7,3 +7,6 @@ legacy/
 test_ckpt/
 test_data/
 test_images/
+training/
+inference_graph/
+utils/
