@@ -10,3 +10,5 @@ test_images/
 training/
 inference_graph/
 utils/
+bin/
+inference/
